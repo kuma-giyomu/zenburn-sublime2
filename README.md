@@ -7,9 +7,9 @@ Low contrast, perfect for low lighting conditions.
 
 Screenshots (Zenburn-Kuma variant):
 
-![PHP](img/zenburn kuma1.png)
+![PHP](https://raw.github.com/kuma-giyomu/zenburn-sublime2/master/img/zenburn%20kuma1.png)
 
-![JSON](img/zenburn kuma2.png)
+![JSON](https://raw.github.com/kuma-giyomu/zenburn-sublime2/master/img/zenburn%20kuma2.png)
 
-![bash](img/zenburn kuma3.png)
+![bash](https://raw.github.com/kuma-giyomu/zenburn-sublime2/master/img/zenburn%20kuma3.png)
 
